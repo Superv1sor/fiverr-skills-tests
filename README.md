@@ -1,0 +1,2 @@
+# fiverr-skills-tests
+Full reference of fiverr answers for skill tests, fiverr test, questions and answers (U.S English Basic Test, Photoshop, Adobe Illustrator, WordPress 5.1, Social Media Marketing Test, Microsoft Excel, Content Writing, English Language (Words and Phrases), Adobe After Effects, Virtual Assistant, CSS 3, HTML 5, Customer Service, Analytical Skills, German Grammar, Spanish Grammar, Italian Grammar ...), fiverr quiz lösungen, fiverr quiz las respuestas
