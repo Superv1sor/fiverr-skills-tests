@@ -1,2 +1,3 @@
-# fiverr-skills-tests
-Full reference of fiverr answers for skill tests, fiverr test, questions and answers (U.S English Basic Test, Photoshop, Adobe Illustrator, WordPress 5.1, Social Media Marketing Test, Microsoft Excel, Content Writing, English Language (Words and Phrases), Adobe After Effects, Virtual Assistant, CSS 3, HTML 5, Customer Service, Analytical Skills, German Grammar, Spanish Grammar, Italian Grammar ...), fiverr quiz lösungen, fiverr quiz las respuestas
+## Fiverr Skill Test Quiz Answers, Skill Assessments Test
+
+> This repository is for those looking for answers to the Fiverr Skill Test quiz questions or willing to help others by contributing to the tests. Or possibly you would like to create your first pull request and be added as a contributor. Whatever is your goal - you are always welcome here!
